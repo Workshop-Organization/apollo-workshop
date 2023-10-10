@@ -10,7 +10,6 @@ sandbox:
   enabled: true
 homepage:
   enabled: false
-
 cors:
   origins:
     - https://studio.apollographql.com
