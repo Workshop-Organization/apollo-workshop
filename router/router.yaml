@@ -10,10 +10,7 @@ sandbox:
   enabled: true
 homepage:
   enabled: false
-limits:
-  max_depth: 5
-  max_heights: 10
-  max_alises: 3
+
 
 cors:
   origins:
